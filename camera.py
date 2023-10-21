@@ -31,7 +31,7 @@ while True:
     # if successful, the image data is stored in the img variable.
     success, img = capture.read()
     # predict on an image and stream the results
-    results = model(img, stream=True)
+    results = model(img, stream=True, device="mps")
     # Loop through the object detected
     for r in results:
         # loop through the bounding boxes
