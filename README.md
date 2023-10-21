@@ -11,6 +11,8 @@ The project includes
 ## How to run
 ### Clone this repo 
 `github.com:njoguamos/Yolo-Basics.git`
+### Clone sort
+Change directory to the repo and close sort package `git clone git@github.com:abewley/sort.git `
 ### Install requirements
 `pip3 install -r requirements.txt`
 ### Run a project
