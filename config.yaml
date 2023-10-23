@@ -1,0 +1,8 @@
+path: '/Users/njoguamos/python/Yolo Basics/construction'
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 10
+names: ['Hardhat', 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone', 'Safety Vest', 'machinery', 'vehicle']

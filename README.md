@@ -9,11 +9,18 @@ The project includes
 4. [Counting vehicles from car traffic video](car_counter.py)
 
 ## How to run
+
 ### Clone this repo 
 `github.com:njoguamos/Yolo-Basics.git`
+
 ### Clone sort
 Change directory to the repo and close sort package `git clone git@github.com:abewley/sort.git `
+
 ### Install requirements
 `pip3 install -r requirements.txt`
+
+### Download construction dataset
+Download data fo [roboflow construction safety Image Dataset](https://universe.roboflow.com/roboflow-universe-projects/construction-site-safety/dataset/27) and extract to construction folder
+
 ### Run a project
 Open the project and run the python file
